@@ -1,0 +1,1 @@
+import{Z as e,r as t}from"./vue-vendor-loiPTQO0.js";const l=e("vehicle",()=>{const e=t([]),l=t(0);return{vehicleList:e,currentVehicleIndex:l,setVehicleList:t=>{e.value=t},setCurrentVehicleIndex:e=>{l.value=e},getCurrentVehicle:()=>0===e.value.length?null:e.value[l.value]}},{persist:!0});export{l as u};

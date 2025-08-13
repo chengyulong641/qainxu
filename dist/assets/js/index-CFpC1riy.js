@@ -1,0 +1,1 @@
+import{c as r,E as s,u as a,D as e,J as o}from"./vue-vendor-loiPTQO0.js";import{_ as t}from"./index-CD_ICcaK.js";const d=["src"],n=t({__name:"index",setup(t){const n=o(),u=r(()=>n.query.url+n.hash);return(r,o)=>(e(),s("iframe",{src:a(u),frameborder:"0"},null,8,d))}},[["__scopeId","data-v-601d61b9"]]);export{n as default};
